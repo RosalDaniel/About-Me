@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3AyY3g0MXBhc24zZTJpa2x1azQ0bnQ2eThmczlsZmNlNWY2cHQ3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
   <h1>Daniel Rosal</h1>
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/daniel-rosal-6418a5274">
